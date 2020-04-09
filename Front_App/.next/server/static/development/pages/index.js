@@ -123,7 +123,6 @@ const Index = () => __jsx("div", {
     columnNumber: 5
   }
 }, "Hello Next.js")); // sayamayu
-// memory
 
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

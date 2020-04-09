@@ -68,7 +68,6 @@ var Index = function Index() {
     }
   }, "Hello Next.js"));
 }; // sayamayu
-// memory
 
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
