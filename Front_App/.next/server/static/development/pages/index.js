@@ -122,7 +122,8 @@ const Index = () => __jsx("div", {
     lineNumber: 3,
     columnNumber: 5
   }
-}, "Hello Next.js"));
+}, "Hello Next.js")); // sayamayu
+
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
