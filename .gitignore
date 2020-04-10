@@ -1,43 +1,23 @@
-RememoryAPI/tmp/pids/server.pid
-Front_App/.next/static/webpack/static/development/pages/index.js.18097523851dd1647f52.hot-update.js.map
-Front_App/.next/static/webpack/static/development/pages/index.js.18097523851dd1647f52.hot-update.js
-Front_App/.next/static/webpack/18097523851dd1647f52.hot-update.json
-Front_App/.next/static/webpack/16000d515a8377bec455.hot-update.json
-RememoryAPI/log/development.log
-Front_App/.next/static/runtime/webpack.js.map
-Front_App/.next/static/runtime/webpack.js
-Front_App/.next/static/webpack/927986ef28e4b45c37ac.hot-update.json
-Front_App/.next/static/webpack/4955b1142c2b4e94646b.hot-update.json
-Front_App/.next/server/static/development/pages/next/dist/pages/_error.js.map
-Front_App/.next/server/static/development/pages/index.js.map
-Front_App/.next/server/static/development/pages/index.js
-Front_App/.next/static/development/pages/next/dist/pages/_error.js
-Front_App/.next/server/static/development/pages/next/dist/pages/_error.js
-Front_App/.next/server/pages-manifest.json
-Front_App/.next/build-manifest.json
-Front_App/.next/static/webpack/static/development/pages/index.js.d9c2b973cab81ba18d61.hot-update.js.map
-Front_App/.next/static/webpack/static/development/pages/index.js.d9c2b973cab81ba18d61.hot-update.js
-Front_App/.next/static/webpack/d9c2b973cab81ba18d61.hot-update.json
-Front_App/.next/cache/next-babel-loader/f12cfb0d09621adb07cd7b0a948799ea.json
-Front_App/.next/cache/next-babel-loader/42977068c9bb28d89fc0cc0d986964c3.json
-Front_App/.next/static/development/pages/index.js.map
-Front_App/.next/static/development/pages/index.js
-Front_App/.next/cache/next-babel-loader/b253bb8fe4e00c9c678e8eff114acb5e.json
-Front_App/.next/cache/next-babel-loader/105bd341b4d089210805fd83d8f2d798.json
-Front_App/.next/static/webpack/87d81535b90ab9d9d86a.hot-update.json
-Front_App/.next/static/webpack/static/development/pages/index.js.be531d7150d951e1aa8f.hot-update.js.map
-Front_App/.next/static/webpack/static/development/pages/index.js.be531d7150d951e1aa8f.hot-update.js
-Front_App/.next/static/webpack/be531d7150d951e1aa8f.hot-update.json
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-# dependencies
-# next.js build output
+# build output
+dist
 .next
-# dotenv environment variables file (build for Zeit Now)
-.env
-.env.build
-# Dependency directories
-node_modules/
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# dependencies
+node_modules
+package-lock.json
+yarn.lock
+!/yarn.lock
+test/node_modules
+# logs & pids
+*.log
+pids
+# coverage
+.nyc_output
+coverage
+# test output
+test/**/out*
+test/**/next-env.d.ts
+.DS_Store
+# Editors
+**/.idea
+# example output
+examples/**/out
