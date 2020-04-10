@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Front_App/.next/cache/autodll-webpack-plugin/development_instance_0_1a5ae910e329394c07695c64f6bd0679/dll.manifest.json
 Front_App/.next/cache/autodll-webpack-plugin/development_instance_0_1a5ae910e329394c07695c64f6bd0679/dll_fe8f2abcb3377bac33d4.js
 Front_App/.next/cache/autodll-webpack-plugin/development_instance_0_1a5ae910e329394c07695c64f6bd0679/dll_fe8f2abcb3377bac33d4.js.map
@@ -58,3 +59,29 @@ Front_App/.next/static/webpack/43607db6770b001fa444.hot-update.json
 Front_App/.next/static/webpack/68eddc54170ee1a8bc82.hot-update.json
 Front_App/.next/static/webpack/e8df0ded6049de2a88b0.hot-update.json
 RememoryAPI/log/development.log
+=======
+RememoryAPI/tmp/pids/server.pid
+Front_App/.next/static/webpack/static/development/pages/index.js.18097523851dd1647f52.hot-update.js.map
+Front_App/.next/static/webpack/static/development/pages/index.js.18097523851dd1647f52.hot-update.js
+Front_App/.next/static/webpack/18097523851dd1647f52.hot-update.json
+Front_App/.next/static/webpack/16000d515a8377bec455.hot-update.json
+RememoryAPI/log/development.log
+Front_App/.next/static/runtime/webpack.js.map
+Front_App/.next/static/runtime/webpack.js
+Front_App/.next/static/webpack/927986ef28e4b45c37ac.hot-update.json
+Front_App/.next/static/webpack/4955b1142c2b4e94646b.hot-update.json
+Front_App/.next/server/static/development/pages/next/dist/pages/_error.js.map
+Front_App/.next/server/static/development/pages/index.js.map
+Front_App/.next/server/static/development/pages/index.js
+Front_App/.next/static/development/pages/next/dist/pages/_error.js
+Front_App/.next/server/static/development/pages/next/dist/pages/_error.js
+Front_App/.next/server/pages-manifest.json
+Front_App/.next/build-manifest.json
+Front_App/.next/static/webpack/static/development/pages/index.js.d9c2b973cab81ba18d61.hot-update.js.map
+Front_App/.next/static/webpack/static/development/pages/index.js.d9c2b973cab81ba18d61.hot-update.js
+Front_App/.next/static/webpack/d9c2b973cab81ba18d61.hot-update.json
+Front_App/.next/cache/next-babel-loader/f12cfb0d09621adb07cd7b0a948799ea.json
+Front_App/.next/cache/next-babel-loader/42977068c9bb28d89fc0cc0d986964c3.json
+Front_App/.next/static/development/pages/index.js.map
+Front_App/.next/static/development/pages/index.js
+>>>>>>> 3816fbfe2c71d2a9bdcd51d78a56c1700f3345be

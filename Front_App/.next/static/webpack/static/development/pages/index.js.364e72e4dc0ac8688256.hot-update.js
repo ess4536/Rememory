@@ -12,7 +12,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\nhs80412\\Rememory\\Front_App\\pages\\index.js";
+    _jsxFileName = "C:\\Users\\ym_ci\\Rememory\\Front_App\\pages\\index.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -32,7 +32,14 @@ var Index = function Index() {
       lineNumber: 3,
       columnNumber: 5
     }
-  }, "Hello Next.js"));
+  }, "Hello Next.js"), __jsx("p", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4,
+      columnNumber: 5
+    }
+  }, "Hello!!!!!! Next.js"));
 }; // sayamayu
 // memory
 
@@ -42,4 +49,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.6f900a7f587339601f8d.hot-update.js.map
+//# sourceMappingURL=index.js.364e72e4dc0ac8688256.hot-update.js.map
