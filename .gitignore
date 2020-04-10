@@ -28,3 +28,16 @@ Front_App/.next/static/webpack/87d81535b90ab9d9d86a.hot-update.json
 Front_App/.next/static/webpack/static/development/pages/index.js.be531d7150d951e1aa8f.hot-update.js.map
 Front_App/.next/static/webpack/static/development/pages/index.js.be531d7150d951e1aa8f.hot-update.js
 Front_App/.next/static/webpack/be531d7150d951e1aa8f.hot-update.json
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# dependencies
+# next.js build output
+.next
+# dotenv environment variables file (build for Zeit Now)
+.env
+.env.build
+# Dependency directories
+node_modules/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
